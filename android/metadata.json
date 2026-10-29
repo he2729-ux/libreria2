@@ -1,6 +1,0 @@
-{
-  "name": "Libris - Lector y Estantería Android",
-  "description": "Lector de libros y organizador estilo estantería para Android con soporte de PDF, EPUB, Markdown, modo crepúsculo, TTS multilingüe y diccionario personal.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
